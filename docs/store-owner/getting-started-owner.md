@@ -33,3 +33,4 @@ Brief tour of the app layout and primary modules.
 ## FAQs
 - I forgot my password
 - I don’t see a module I expect
+\n## Store Mode vs Owner Mode\n- Use ‘Switch to Store Mode’ for customer-facing actions; owner tasks stay in Owner mode.\n\n## Quick Actions on Dashboard\n- Add to Collection, Start Trade‑In, Visit Store, View Rewards.\n\n## Keyboard Shortcuts (if enabled)\n- / to focus search, g d = Dashboard (example).\n

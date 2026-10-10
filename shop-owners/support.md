@@ -6,6 +6,6 @@
 - Keep a list of affected locations or SKUs for faster troubleshooting.
 
 ## Submitting a ticket
-- Email [support@hortonpress.com](mailto:support@hortonpress.com) to submit a ticket.
+- Submit a ticket using the support form on the Support page.
 - Include screenshots, store ID, and the steps you took before the issue.
 - Expect a response within 48 hours.
